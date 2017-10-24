@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8" />
+	<title>BARDZ | Baratas da Zueira</title>
+	<link rel="stylesheet" href="../css/normalize.css" />
+	<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet">
+	<link rel="stylesheet" href="../css/estilo.css" />
+</head>
+<body>
+	<div class="header">
+		<div class="linha">
+			<header>
+				<div class="coluna col4">
+					<h1 class="logo">BARDZ</h1>
+				</div>
+				<div class="coluna col8">
+					<nav>
+						<ul class="menu inline sem-marcador">
+							<li><a href="index.html">Home</a></li>
+						</ul>
+					</nav>
+				</div>
+			</header>
+		</div>
+	</div>
+	<div class="linha">
+		<section>
+			<div class="coluna col3 sidebar">
+				<h3>Veja nossos memes</h3>
+				<ul class="sem-marcador sem-padding">
+					<li><a href="todososmemes.html">Todos</a><li>
+				</ul>
+			</div>
+			<div class="coluna col9">
+				<h2>Melhores memes:<em>BARDZ</em></h2>
+				<img src="../imagens/meme.jpg" alt="" />
+				<p>Venha o confira esse e mais outros memes já!</p>
+				<a href="todososmemes.html" class="botao">Veja mais&raquo;</a>
+			</div>
+		</section>
+	</div>
+	<div class="conteudo-extra">
+		<div class="linha">
+			<div class="coluna col7">
+				<section>
+					<h2>Porque acessar nosso site?</h2>
+					<p>Porque aqui você encontrará os melhores memes e o site estará em constante atualização para agradar a você.</p>
+				</section>
+			</div>
+			<div class="coluna col5">
+				<h3>Recentes</h3>
+				<ul class="sem-marcador sem-padding noticias">
+					<li>
+						<img src="../imagens/memeP.jpg" alt="" />
+						<h4>Último adicionado</h4>
+						<p>Confira já este meme muito louco adicionado recentemente<a href="">Veja mais&raquo;</a></p>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="footer">
+		<div class="linha">
+			<footer>
+				<div class="coluna col12">
+					<span>&copy;BARDZ Corporight</span>
+				</div>
+			</footer>
+		</div>
+	</div>
+</body>
+</html>
